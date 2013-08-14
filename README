@@ -1,0 +1,10 @@
+Scanner Kit 
+
+Tech: 
+  MongoDB, NodeJs  (Login Register)
+  PHP, Ajax, Mysql (Severside Database Operation)
+
+Package:
+  Phonegap: Camera Module, File Module (Local Database)
+  Scan Reader Package: Zxing
+  
